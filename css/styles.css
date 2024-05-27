@@ -2,3 +2,13 @@ h1{
     font-size: 200%;
     color: blue;
 }
+
+/* Utiliza-se # para identificar Id's */
+#titulos{
+    color: green;
+}
+
+/* Utiliza-se . para identificar Classes */
+.titulos{
+    color: yellow;
+}
